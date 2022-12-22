@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7qlSnVvWDV3vPFGon8NHeKQqrwesYhR/NXh3t044hIY=",
+  "Source": "webapi_challenge",
+  "BasePath": "_content/webapi_challenge",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
